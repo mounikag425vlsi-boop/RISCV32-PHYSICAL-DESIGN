@@ -76,7 +76,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 <p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- : 4-bit and 32-bit Up/Down Counter Physical Design using OpenLane<p>
 
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- RISC-V 32-bit RTL Physical Design Flow</p>
 
 <p><em>(You can add more projects as needed)</em></p>
 
@@ -99,9 +99,9 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 </p>
 
 <!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
+<h3 id="project3">Project 3: <!--RISC-V 32-bit RTL Physical Design Flow
 <p>
-  Implemented and analyzed a 32-bit RISC-V RTL design using OpenLane. Performed synthesis, floorplanning, power planning, placement, CTS, routing and Static Timing Analysis. Applied clock uncertainty, derate, input/output delay, utilization, floorplan ratio, port placement and CTS constraints, and analyzed the resulting physical design reports.<img width="468" height="101" alt="image" src="https://github.com/user-attachments/assets/e28134a2-6e29-4936-a294-20b05e3a0510" />
+  Implemented and analyzed a 32-bit RISC-V RTL design using OpenLane. Performed synthesis, floorplanning, power planning, placement, CTS, routing and Static Timing Analysis. Applied clock uncertainty, derate, input/output delay, utilization, floorplan ratio, port placement and CTS constraints, and analyzed the resulting physical design reports.
 
 </p>
 <p>
