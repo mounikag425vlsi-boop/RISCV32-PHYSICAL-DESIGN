@@ -109,7 +109,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
   It required planning, building, optimizing, and documenting a complete real-world project.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="<!-- assignment 3.docx -->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
