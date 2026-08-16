@@ -93,9 +93,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 <!-- Project 2 -->
 <h3 id="project2">Project 2: <!-- Add Project Title --></h3>
 <p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
+  Performed the OpenLane physical design flow for 4-bit and 32-bit Up/Down Counter designs. Analyzed synthesis, floorplanning, placement, CTS, routing, timing, power, area, utilization and IR drop. Applied timing and physical design constraints and explored the OpenLane GUI for physical design analysis.
 <p>
   <a href="<!-- assignment-2.docx -->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
