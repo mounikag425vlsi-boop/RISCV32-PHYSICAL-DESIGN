@@ -74,7 +74,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 <p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Linux, OpenLane Environment and TCL Automation</p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- : 4-bit and 32-bit Up/Down Counter Physical Design using OpenLane<p>
 
 <p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
@@ -91,7 +91,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 </p>
 
 <!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
+<h3 id="project2">Project 2: <!-- : 4-bit and 32-bit Up/Down Counter Physical Design using OpenLane
 <p>
   Performed the OpenLane physical design flow for 4-bit and 32-bit Up/Down Counter designs. Analyzed synthesis, floorplanning, placement, CTS, routing, timing, power, area, utilization and IR drop. Applied timing and physical design constraints and explored the OpenLane GUI for physical design analysis.
 <p>
