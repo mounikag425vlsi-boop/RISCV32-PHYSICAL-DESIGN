@@ -101,8 +101,8 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 <!-- Project 3 -->
 <h3 id="project3">Project 3: <!-- Add Project Title --></h3>
 <p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
+  Implemented and analyzed a 32-bit RISC-V RTL design using OpenLane. Performed synthesis, floorplanning, power planning, placement, CTS, routing and Static Timing Analysis. Applied clock uncertainty, derate, input/output delay, utilization, floorplan ratio, port placement and CTS constraints, and analyzed the resulting physical design reports.<img width="468" height="101" alt="image" src="https://github.com/user-attachments/assets/e28134a2-6e29-4936-a294-20b05e3a0510" />
+
 </p>
 <p>
   <a href="<!-- assignment 3.docx -->" target="_blank"><strong>→ View Full Project Report</strong></a>
