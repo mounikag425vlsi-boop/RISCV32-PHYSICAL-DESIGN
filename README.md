@@ -18,11 +18,11 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> <!--- V.MOUNIKA---> </p>
+    <p><strong>Email ID:</strong> <!--- mounikag425@gmail.com ---> </p>
+    <p><strong>College Name:</strong> <!--- ANURAG College Of Engineering---> </p>
+    <p><strong>Branch/Specialization :</strong> <!--- VLSI---> </p>
+    <p><strong>College ID:</strong> <!--- 12PQ1D5715---> </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
@@ -40,9 +40,9 @@
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> <!–– VEERAMANI SIR ––></p>
+<p><strong>Trainer Email ID:</strong> <!–– veeramani_r@outlook.com ––></p>
+<p><strong>Trainer Designation:</strong> <!–– Staff Engineer at Synopsys––></p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -113,17 +113,20 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 ## **References**
 
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
----
+-- [OpenLane Documentation](https://openlane.readthedocs.io/)
+- [OpenROAD Documentation](https://openroad.readthedocs.io/)
+- [Yosys Documentation](https://yosyshq.readthedocs.io/)
+- [OpenSTA](https://github.com/The-OpenROAD-Project/OpenSTA)
+- [SkyWater SKY130 PDK](https://github.com/google/skywater-pdk)
+
 
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+During the LST and SST sessions, I improved my technical knowledge, communication skills, problem-solving ability, and professional approach. I learned how to understand technical requirements, document my work, analyze issues, communicate effectively, and present my project work clearly.
+
+The sessions also helped me develop better teamwork, time management, technical documentation, and presentation skills. These learnings supported me in completing the VLSI Physical Design assignments and documenting the project work professionally.
+
 
 ## **Community Services**
 
