@@ -72,7 +72,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Linux, OpenLane Environment and TCL Automation</p>
 
 <p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
@@ -83,7 +83,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: <!-- Linux, OpenLane Environment and TCL Automation
 <p>
   Practiced Linux commands, Vi editor, chmod, grep and awk. Explored the OpenLane directory structure and analyzed reports and logs. Performed TCL automation tasks including wire-length calculation, clock and data wire-length analysis, IR-drop analysis, cell voltage analysis and logic-level analysis.</p>
 <p>
