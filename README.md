@@ -99,7 +99,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
   It enhanced understanding of UI/UX design, modular coding, and testing.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="<!-- assignment-2.docx -->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 3 -->
