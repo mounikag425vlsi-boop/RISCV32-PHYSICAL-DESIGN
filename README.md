@@ -29,11 +29,11 @@
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> <!--- VLSI---> </p>
+    <p><strong>Instructor Name:</strong> <!--- VEERAMANI SIR---> </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> <!--- 6 MONTHS---> </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -130,9 +130,7 @@ The sessions also helped me develop better teamwork, time management, technical 
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
-
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my training period, I participated in community-oriented activities and contributed to social and environmental initiatives. These activities helped me develop communication, teamwork, coordination, and social responsibility.
 
 ### **Activities Involved**
 <!-- add the location where you given -->
