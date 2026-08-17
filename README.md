@@ -29,20 +29,20 @@
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- VLSI---> </p>
-    <p><strong>Instructor Name:</strong> <!--- VEERAMANI SIR---> </p>
+    <p><strong>Course Opted:</strong> VLSI</p>
+    <p><strong>Instructor Name: VEERAMANI SIR </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- 6 MONTHS---> </p>
+    <p><strong>Duration:</strong>  6 MONTHS </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– VEERAMANI SIR ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– veeramani_r@outlook.com ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Staff Engineer at Synopsys––></p>
+<p><strong>Trainer Name:</strong>  VEERAMANI SIR </p>
+<p><strong>Trainer Email ID:</strong>  veeramani_r@outlook.com </p>
+<p><strong>Trainer Designation:</strong>  Staff Engineer at Synopsys</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
