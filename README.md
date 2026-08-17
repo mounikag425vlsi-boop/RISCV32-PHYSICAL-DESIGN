@@ -18,11 +18,11 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- V.MOUNIKA---> </p>
-    <p><strong>Email ID:</strong> <!--- mounikag425@gmail.com ---> </p>
-    <p><strong>College Name:</strong> <!--- ANURAG College Of Engineering---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- VLSI---> </p>
-    <p><strong>College ID:</strong> <!--- 12PQ1D5715---> </p>
+    <p><strong>Name:</strong>V.MOUNIKA </p>
+    <p><strong>Email ID:</strong>  mounikag425@gmail.com  </p>
+    <p><strong>College Name:</strong>  ANURAG College Of Engineering </p>
+    <p><strong>Branch/Specialization :</strong>  VLSI </p>
+    <p><strong>College ID:</strong>  12PQ1D5715 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
