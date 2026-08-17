@@ -63,10 +63,9 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+> _During this internship, I gained valuable knowledge and practical experience through hands-on training and project-based learning. I developed a better understanding of technical concepts and learned how to apply them to real-world problems.
+Throughout the program, I improved my problem-solving, communication, teamwork, documentation, and time-management skills. I also learned the importance of following a structured approach while working on projects, completing assigned tasks, and presenting the results effectively.
+Overall, this internship helped me strengthen both my technical and professional skills and increased my confidence in working on real-world projects.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
@@ -134,22 +133,19 @@ During my training period, I participated in community-oriented activities and c
 
 ### **Activities Involved**
 <!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
+- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp. This experience helped me contribute to the community and support people in need.
   
  <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
+- **Tree Plantation Drive** – Participated in planting trees and contributing to environmental improvement. The activity increased my awareness of environmental responsibility and the importance of protecting nature.
 
   <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. This experience helped me develop patience, empathy, and a sense of responsibility toward senior citizens.
 
 <!-- you can write impacts according to your experience in your words-->
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
+- Through these community service activities, I developed a stronger sense of social responsibility, teamwork, empathy, and willingness to help others. These experiences also improved my communication skills and taught me the importance of contributing positively to the community.
 
 ### **Photos**
 
@@ -168,7 +164,7 @@ During my training period, I participated in community-oriented activities and c
 
 ## **Certificate**
 
-The internship certificate serves as an official acknowledgment of the successful completion of my training period. It will be issued by the organization upon fulfilling all required tasks and meeting the performance expectations of the program. The certificate validates the skills, experience, and contributions made during the internship.
+The internship certificate serves as official recognition of the successful completion of my internship and training period. It acknowledges my participation, dedication, and contributions throughout the program and validates the skills and experience gained during the internship.
 
 <!-- add your certificate image url below (inside src='')-->
 
@@ -180,7 +176,8 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 ## **Acknowledgments**
 
-<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
+<!--I would like to express my sincere gratitude to Prof. Radhakumari Mam, Executive Director and Founder of SURE Trust, for providing me with the opportunity to participate in this internship program.
+I am thankful to the trainers and mentors for their valuable guidance, continuous support, and encouragement throughout the training period. I also appreciate SURE Trust for providing a platform to enhance my technical skills, professional knowledge, and personal development. -->
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
