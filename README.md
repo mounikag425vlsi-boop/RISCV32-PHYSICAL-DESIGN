@@ -82,8 +82,7 @@ Overall, this internship helped me strengthen both my technical and professional
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Linux, OpenLane Environment and TCL Automation
-<p>
+<h3 id="project1">Project 1: Linux, OpenLane Environment and TCL Automation</h3>
   Practiced Linux commands, Vi editor, chmod, grep and awk. Explored the OpenLane directory structure and analyzed reports and logs. Performed TCL automation tasks including wire-length calculation, clock and data wire-length analysis, IR-drop analysis, cell voltage analysis and logic-level analysis.</p>
 <p>
   <a href="<!-- assignment 1 pd.docx -->" target="_blank"><strong>→ View Full Project Report</strong></a>
