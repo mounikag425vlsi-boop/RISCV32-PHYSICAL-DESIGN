@@ -97,8 +97,7 @@ Overall, this internship helped me strengthen both my technical and professional
 </p>
 
 <!-- Project 3 -->
-<h3 id="project3">Project 3: <!--RISC-V 32-bit RTL Physical Design Flow
-<p>
+<h3 id="project3">Project 3: RISC-V 32-bit RTL Physical Design Flow</h3><p>
   Implemented and analyzed a 32-bit RISC-V RTL design using OpenLane. Performed synthesis, floorplanning, power planning, placement, CTS, routing and Static Timing Analysis. Applied clock uncertainty, derate, input/output delay, utilization, floorplan ratio, port placement and CTS constraints, and analyzed the resulting physical design reports.
 
 </p>
