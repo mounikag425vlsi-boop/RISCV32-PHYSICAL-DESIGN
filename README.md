@@ -135,10 +135,10 @@ During my training period, I participated in community-oriented activities and c
 <!-- add the location where you given -->
 - **Blood Donation** – Donated blood and supported basic assistance tasks during the camp. This experience helped me contribute to the community and support people in need.
   
- <!-- add the location where you have panted -->
+ <!-- HYDERABAD -->
 - **Tree Plantation Drive** – Participated in planting trees and contributing to environmental improvement. The activity increased my awareness of environmental responsibility and the importance of protecting nature.
 
-  <!-- add the location where you helped -->
+  <!-- HYDERABAD-->
 - **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. This experience helped me develop patience, empathy, and a sense of responsibility toward senior citizens.
 
 <!-- you can write impacts according to your experience in your words-->
